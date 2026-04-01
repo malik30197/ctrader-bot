@@ -6,7 +6,7 @@ const app = express();
 app.use(bodyParser.json());
 
 // 🔴 YAHAN CHANGE KARNA HAI
-const CTRADER_ACCESS_TOKEN = "UL90bWeIwXuhhBnGCq3p2bJ9UgxWi5hEJKUz2FDA5gs";
+const CTRADER_ACCESS_TOKEN = "T-rS9o_ofkEneAbW5ze5s7yYI7GAr3JLP2tIxrS9qKI";
 const ACCOUNT_ID = "46801974";
 
 // ===== TRADE OPEN =====
